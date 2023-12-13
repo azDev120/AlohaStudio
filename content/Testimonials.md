@@ -1,7 +1,7 @@
 +++
 title = '学子心声和过往案例'
 date = 2023-12-10T18:27:13+08:00
-draft = true
+
 +++
 
 <!-- ![Student](/background/student.jpg) -->
@@ -21,3 +21,6 @@ AP Chem 裸考 1.5 分，在 黑肉 老师的帮助下，经过 xx 月的培训�
 **学生2： Leo**
 
 SAT Bio 裸考 500 分，在Cathy肉老师的帮助下，经过 xx 月的培训后成功在7月4日的场次中取得了790分的好成绩。
+
+
+<!-- draft = true -->
