@@ -1,8 +1,0 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Categories - Category - Aloha Studio :)</title>
-        <link>https://example.org/categories/</link>
-        <description>Categories - Category - Aloha Studio :)</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>aaron_zhangtj@163.com (aaron_z)</managingEditor>
-            <webMaster>aaron_zhangtj@163.com (aaron_z)</webMaster><atom:link href="https://example.org/categories/" rel="self" type="application/rss+xml" /></channel>
-</rss>
